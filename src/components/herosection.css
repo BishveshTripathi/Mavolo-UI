@@ -1,0 +1,10 @@
+/* herosection.css */
+
+.hero-section {
+    background: linear-gradient(to right, #ffffff, #ff726f);  /* Adjust the colors as needed */
+    padding: 90px;  /* Adjust the padding as needed */
+    /* color: #ffffff;  Set text color to white or your preferred color */
+  }
+  
+  /* Add any additional styles as needed */
+  
